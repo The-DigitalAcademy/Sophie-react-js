@@ -1,1 +1,1 @@
-[LINK](https://the-digitalacademy.github.io/Sophie-react-js/)
+[LINK](https://the-digitalacademy.github.io/Sophie-react-js)
